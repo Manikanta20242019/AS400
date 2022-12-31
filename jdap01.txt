@@ -1,6 +1,7 @@
 <html>
 <body>
 <h2> This is jdap01 server master </h2>
+<h2> made some changes in remote server </h2>
 </body>
 </html>
 
